@@ -12,7 +12,7 @@ def jp_prolong(string):
         correct_string += item
     return correct_string
 
-the_sheep_password = "バーラーミュー"
+the_sheep_password = "バ-ラ-ミュ-"
 
 print(jp_prolong(the_sheep_password))
 
