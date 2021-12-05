@@ -1,4 +1,4 @@
-#Correcting misused hyphen to japanese prolong.
+#Correcting misused hyphen to Japanese prolong.
 
 Dealing with japanese character is a so much hassle.
-this function correct misused hyphen to japanese prolong.
+this function correct misused hyphen to Japanese prolong.
